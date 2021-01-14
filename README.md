@@ -14,5 +14,5 @@ Brief look into some project parts until that is uploaded:
 - Design Documentation
 - UML documentation
 - Testing
-- Use of Artificial intellegence for inference on current progress outlook
+- Use of Artificial Intelligence for inference on current progress outlook
 ```
