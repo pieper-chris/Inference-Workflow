@@ -1,9 +1,9 @@
 # Inference-Workflow
 Business-oriented workflow tracking system
 
-## Software Requirements Specification - Coming asap. 
+## [Software Requirements Specification Here](https://github.com/pieper-chris/Inference-Workflow/blob/main/docs/SRS.md) 
 
-Brief look into some project parts until that is uploaded:
+Brief look into some project parts:
 
 ```
 - .NET (ASP.NET MVC) in Visual Studio - C# Language
