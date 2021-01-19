@@ -203,6 +203,7 @@ In this case, ease of use and consistency is what matters most. This also allows
 
 * OS - macOS Big Sur for development
 * Implementation Environment - Visual Basic
+* Docker - for SQL usage locally in development
 * Database - SQL Server 2019 Express
 * Deployment/Hosting - Amazon Web Services
 
